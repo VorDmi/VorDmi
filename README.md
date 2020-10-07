@@ -4,7 +4,7 @@ _______
 Learn the layout
 _______
 #### Socials
-[![VK](https://img.shields.io/badge/VK---?logo=telegram&style=for-the-badge&color=7fa7d4)](https://vk.com/vordmi)
+[![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/vordmi)
 _______
 #### Work stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
