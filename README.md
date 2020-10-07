@@ -11,4 +11,4 @@ _______
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
 _______
 ![VorDmi's github stats](https://github-readme-stats.vercel.app/api?username=VorDmi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VorDmi&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VorDmi&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
