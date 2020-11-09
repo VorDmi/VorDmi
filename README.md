@@ -5,7 +5,7 @@ Learn the layout
 _______
 #### Socials
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=30,e96443,904e95)](https://vk.com/vordmi_vk/)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?logo=instagram&style=for-the-badge&color=white)](https://www.instagram.com/vordmi_inst/)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?logo=instagram&style=for-the-badge&bg_color=30,e96443,904e95)](https://www.instagram.com/vordmi_inst/)
 _______
 #### Work stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
