@@ -4,7 +4,7 @@ _______
 Learn the layout
 _______
 #### Socials
-[![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/vordmi_vk/)
+[![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=30,e96443,904e95)](https://vk.com/vordmi_vk/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM---?logo=instagram&style=for-the-badge&color=white)](https://www.instagram.com/vordmi_inst/)
 _______
 #### Work stack
